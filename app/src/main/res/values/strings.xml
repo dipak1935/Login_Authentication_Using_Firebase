@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Authentication Using Firebase</string>
+    <string name="description_sign_up">background sign up image</string>
+    <string name="hint_name">Name</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email_id">Email Id</string>
+</resources>
